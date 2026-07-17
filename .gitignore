@@ -1,0 +1,22 @@
+venv/
+.venv
+__pycache__/
+*.pyc
+.env
+*.parquet
+.ipynb_checkpoints/
+models/
+models/train_embeddings.npy
+data
+.DS_Store
+*.egg-info
+.pytest_cache
+
+# Analysis Reports
+reports/
+*.html
+*.pdf
+
+# IDE Settings
+.vscode/
+notes.txt
